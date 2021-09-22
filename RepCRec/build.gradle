@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+    id "application"
+}
+
+group 'com.ads.repcrec'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+mainClassName = 'com.adb.repcrec.Application'
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.12.0'
+}
