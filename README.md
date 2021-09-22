@@ -28,18 +28,3 @@
 ## Run the program from build
 - You will get a jar file named "RepCRec-1.0-SNAPSHOT.jar" in build/libs directory 
 - command: java -jar RepCRec-1.0-SNAPSHOT.jar
-
-## ALGORITHMS USED
-
-### Available Copies Algorithm
-
-### Strict Two Phase Locking
-
-### Deadlock Detection
-
-### Mulitversion Concurrency Control
-
-### Site Failure and Site Recovery
-
-## COMPONENTS
-
